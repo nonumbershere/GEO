@@ -8,13 +8,10 @@
 body {
     color: #fff;
     background: #222;
-    user-select: none;
-    -webkit-user-select: none;
     cursor: default;
 }
 
 body.dom-loaded {
-    display: block;
 }
 
 #betaflag {
